@@ -21,7 +21,7 @@ Bot, sadece **whitelist** listesinde bulunan kullanıcıların komut çalıştı
 ## 🔧 Kurulum
 1. Bu projeyi indir:
    ```
-   git clone https://github.com/kullanici/Discord-Sunucu-Temizleme-Botu.git
+   git clone https://github.com/Zywexx/Discord-Sunucu-Temizleme-Botu.git
    cd Discord-Sunucu-Temizleme-Botu
 2. Gerekli paketleri yükle:
 
